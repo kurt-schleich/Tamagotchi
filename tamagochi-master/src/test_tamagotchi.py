@@ -1,6 +1,6 @@
 import unittest
 
-from src.tamagotchi import Tamagotchi
+from tamagotchi import Tamagotchi
 
 
 class TestTamagotchi(unittest.TestCase):
